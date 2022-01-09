@@ -10,5 +10,3 @@ This project is a starting point for a Flutter application.
 
 https://gifs.com/gif/app-demo-WPp6qo
 
-### to do
-
